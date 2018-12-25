@@ -8,16 +8,16 @@
  - pc端响应式
 ## 使用
  - clone到本地
-  - git clone https://github.com/uuoocckk-983/electronic-mall.git
+    - git clone https://github.com/uuoocckk-983/electronic-mall.git
  - 安装依赖
-  - 前端在electronic-mall目录下安装，后端需要cd 进入 server 目录
-  - npm install
-  - 或 cnpm install
-  - 或 yarn install
+    - 前端在electronic-mall目录下安装，后端需要cd 进入 server 目录
+    - npm install
+    - 或 cnpm install
+    - 或 yarn install
  - 安装MongoDB
-  - 参照官网
+    - 参照官网
  - 启动
-  - 页面 npm run dev 
-  - 后端 cd server --> node bin/www
-  - 页面访问http://localhost:8080 | 后端访问 http://localhost:5000
+    - 页面 npm run dev 
+    - 后端 cd server --> node bin/www
+    - 页面访问http://localhost:8080 | 后端访问 http://localhost:5000
   
